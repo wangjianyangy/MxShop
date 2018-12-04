@@ -23,7 +23,7 @@ router = DefaultRouter()
 router.register(r'goods', GoodsListViewSet,base_name='goods')
 # 配置Category的url
 router.register(r'categorys', CategoryViewSet, base_name="categorys")
-# 配置codes的url
+# 配置codes的url，云片网验证码
 router.register(r'code', SmsCodeViewset, base_name="code")
 #配置用户的url
 router.register(r'users', UserViewset, base_name="users")
