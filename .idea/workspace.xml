@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a42ca881-7601-4a01-bb97-e4d93fcfe1ee" name="Default" comment="更新迭代">
+      <change afterPath="$PROJECT_DIR$/page/Online_shop开发需求插件/DjangoUeditor.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/Online_shop开发需求插件/DjangoUeditor3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/Online_shop开发需求插件/RNCryptor-python.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/Online_shop开发需求插件/node-v10.14.1-x64.msi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/Online_shop开发需求插件/rest_framework.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/Online_shop开发需求插件/xadmin-django2.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MxShop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MxShop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MxShop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MxShop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/serializers.py" afterDir="false" />
     </list>
     <ignored path="MxShop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,17 +34,7 @@
     <favorites_list name="MxShop" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MxShop/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1050">
-              <caret line="145" column="5" lean-forward="true" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,8 +117,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="93" />
-    <option name="y" value="35" />
+    <option name="x" value="68" />
+    <option name="y" value="47" />
     <option name="width" value="1386" />
     <option name="height" value="728" />
   </component>
@@ -153,7 +146,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\node\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BBS" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
@@ -324,7 +317,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523089008501</updated>
-      <workItem from="1543894034215" duration="9122000" />
+      <workItem from="1543894034215" duration="10566000" />
+      <workItem from="1543972100706" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="更新迭代">
       <created>1543894930415</created>
@@ -340,20 +334,25 @@
       <option name="project" value="LOCAL" />
       <updated>1543894947498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新迭代">
+      <created>1543906402796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543906402796</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9122000" />
+    <option name="totallyTimeSpent" value="11231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="93" y="35" width="1386" height="728" extended-state="0" />
+    <frame x="68" y="47" width="1386" height="728" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13951735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1417798" />
       <window_info id="Structure" order="1" weight="0.36941582" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991454" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984917" visible="true" weight="0.23529412" />
@@ -366,11 +365,13 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3965812" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="File Transfer" order="11" weight="0.26480263" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,8 +676,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MxShop/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1050">
-          <caret line="145" column="5" lean-forward="true" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+        <state relative-caret-position="31">
+          <caret line="220" column="41" lean-forward="true" selection-start-line="220" selection-start-column="41" selection-end-line="220" selection-end-column="41" />
         </state>
       </provider>
     </entry>
